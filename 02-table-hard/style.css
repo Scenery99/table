@@ -1,0 +1,39 @@
+table {
+  background-color: #f6f6f6;
+}
+
+td, th {
+  border: 1px solid #999;
+}
+
+th {
+  background: rgb(42, 165, 136);
+  color: white;
+}
+
+.primary {
+  background-color: #000000;
+}
+
+
+
+table {
+  width: 1200px;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th {
+  padding: 6px 12px;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+td {
+  padding: 20px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+
